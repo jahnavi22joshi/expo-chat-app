@@ -11,7 +11,6 @@ A real-time chat application built with Expo and React Native. The app provides 
 * Responsive & Modern UI
 * Navigation with Expo Router / React Navigation
 * State Management
-* API Integration
 * Cross-Platform Support (Android & iOS)
 * Clean & Scalable Project Structure
 
